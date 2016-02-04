@@ -887,6 +887,7 @@ footer .center p {
 	width:100%;
 	float:left;
 	position:relative;
+	margin-top: 5px;
 }
 .inner-banner h2 {
     color: #fff;
